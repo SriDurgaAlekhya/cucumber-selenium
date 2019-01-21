@@ -8,23 +8,23 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 	WebDriver driver;
-	
-	@FindBy(id="email")
+
+	@FindBy(id = "email")
 	WebElement emailId;
-	
-	@FindBy(id="passwd")
+
+	@FindBy(id = "passwd")
 	WebElement password;
-	
-	@FindBy(id="SubmitLogin")
+
+	@FindBy(id = "SubmitLogin")
 	WebElement login;
 
 	public LoginPage(WebDriver driver) {
 		this.driver = driver;
-		//PageFactory.initElements(driver, this);
+		// PageFactory.initElements(driver, this);
 
 	}
 
-	public void login() throws InterruptedException {
+	public void login() {
 
 		login.click();
 
