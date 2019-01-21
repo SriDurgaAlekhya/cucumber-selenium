@@ -17,6 +17,5 @@ Stepdefs.java
 
 
 ## Output Video:
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SerFjJDgwDE/0.jpg)](https://www.youtube.com/watch?v=SerFjJDgwDE)
 
