@@ -1,4 +1,9 @@
 # cucumber-selenium
+
+#### Output Video:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SerFjJDgwDE/0.jpg)](https://www.youtube.com/watch?v=SerFjJDgwDE)
+
+
 This is a sample POC for Cucumber & selenium WedDriver.
 I used Page Object model & PageFactory design patterns wherever needed.
 
@@ -14,8 +19,3 @@ yourwebsite.feature
 Stepdefs.java
 	String password = "*******";
 ```
-
-
-## Output Video:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SerFjJDgwDE/0.jpg)](https://www.youtube.com/watch?v=SerFjJDgwDE)
-
